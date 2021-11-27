@@ -1,0 +1,6 @@
+aiokafka
+asyncio
+boto3
+fastavro
+python-schema-registry-client==1.8.2
+websockets
